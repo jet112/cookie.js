@@ -86,7 +86,6 @@ if (typeof process !== 'undefined' &&
 }
 
 module.exports = {
-  document: document,
   setCookie: setCookie,
   getCookie: getCookie,
   deleteCookie: deleteCookie,
